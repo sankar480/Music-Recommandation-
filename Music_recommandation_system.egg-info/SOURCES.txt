@@ -1,0 +1,5 @@
+setup.py
+Music_recommandation_system.egg-info/PKG-INFO
+Music_recommandation_system.egg-info/SOURCES.txt
+Music_recommandation_system.egg-info/dependency_links.txt
+Music_recommandation_system.egg-info/top_level.txt

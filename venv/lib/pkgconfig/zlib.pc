@@ -1,0 +1,13 @@
+prefix=/Users/sankar/Documents/Song/venv
+exec_prefix=/Users/sankar/Documents/Song/venv
+libdir=/Users/sankar/Documents/Song/venv/lib
+sharedlibdir=/Users/sankar/Documents/Song/venv/lib
+includedir=/Users/sankar/Documents/Song/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

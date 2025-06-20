@@ -1,0 +1,5 @@
+[ 2025-06-20 13:20:46,069 ] 20 root - INFO - Read the csv file 
+[ 2025-06-20 13:20:46,074 ] 25 root - INFO - Enter into preprocessing 
+[ 2025-06-20 13:20:47,124 ] 38 root - INFO - Enter into TfidfVectorizer 
+[ 2025-06-20 13:20:47,365 ] 44 root - INFO - Successfully converted text into vector 
+[ 2025-06-20 13:20:47,440 ] 57 root - INFO - Saved data into pickle files 
